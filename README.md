@@ -101,7 +101,9 @@ Training uses Proximal Policy Optimization (PPO) from stable-baselines3. PPO wor
 
 ## Creating Custom Tracks
 
-Tracks are drawn in MS Paint (or any image editor) and saved as PNG in `tracks/`. Example track used in this project: [`tracks/track.png`](tracks/track.png) - drawn entirely in Paint.
+Tracks are drawn in MS Paint (or any image editor) and saved as PNG in `tracks/`. Example track used in this project, drawn entirely in Paint:
+
+<img src="tracks/track.png" alt="Example track" width="500">
 
 **Color mapping:**
 | Color | RGB | Purpose |
