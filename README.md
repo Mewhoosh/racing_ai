@@ -22,7 +22,7 @@ Final model (v6, 260k training steps) driving autonomously:
 
 Visualization of how the agent improves over training (model v3, 210k steps). Video is 2x speed.
 
-[Training progress video](assets/progress.mp4)
+[![Training progress video](https://img.youtube.com/vi/k-Z4kfpTnDo/0.jpg)](https://youtu.be/k-Z4kfpTnDo)
 
 Visible learning stages:
 - **Early (10-20k steps)** - drives in the wrong direction or stands still
