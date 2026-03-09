@@ -2,8 +2,6 @@
 
 2D racing game with reinforcement learning. The AI learns to drive using raycast sensors and PPO algorithm.
 
-Repository: [github.com/mewhoosh/racing-ai](https://github.com/mewhoosh/racing-ai)
-
 ## Demo
 
 ### Manual Play
@@ -22,7 +20,10 @@ Final model (v6, 260k training steps) driving autonomously:
 
 Visualization of how the agent improves over training (model v3, 210k steps). Video is 2x speed.
 
-[![Training progress video](https://img.youtube.com/vi/k-Z4kfpTnDo/0.jpg)](https://youtu.be/k-Z4kfpTnDo)
+
+
+https://github.com/user-attachments/assets/10fd568c-4527-40b1-87ec-acf98bc1ce15
+
 
 Visible learning stages:
 - **Early (10-20k steps)** - drives in the wrong direction or stands still
